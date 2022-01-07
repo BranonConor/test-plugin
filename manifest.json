@@ -1,10 +1,8 @@
 {
-  "name": "test-plugin",
-  "id": "1060668904544212090",
+  "name": "Webpack + React Sample",
+  "id": "",
   "api": "1.0.0",
-  "editorType": [
-    "figma"
-  ],
   "main": "dist/code.js",
-  "ui": "dist/ui.html"
+  "ui": "dist/ui.html",
+  "editorType": ["figma", "figjam"]
 }
